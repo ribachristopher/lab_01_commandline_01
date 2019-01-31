@@ -1,4 +1,3 @@
-
 Lab - Navigating the File System
 ==========
 Follow the instructions line-by-line.  
@@ -31,7 +30,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
-
+/Users/christopher.riba98/mtec1002
 
 
 ==========
@@ -42,7 +41,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals
 
 
 ==========
@@ -53,7 +52,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals	food
 
 
 ==========
@@ -64,7 +63,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals	foo	food
 
 
 ==========
@@ -75,7 +74,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/christopher.riba98/mtec1002/foo/bar/baz/qux
 
 
 ==========
@@ -86,7 +85,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/christopher.riba98/mtec1002/foo/bar
 
 
 ==========
@@ -97,7 +96,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/christopher.riba98/mtec1002/foo/bar/baz/qux
 
  
 ==========
@@ -108,7 +107,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/christopher.riba98/mtec1002
 
 
 ==========
@@ -120,7 +119,9 @@ $ ls -l
 
 Copy and paste the first two lines from the output into the space below.
 ----------
-
+total 0
+drwxr-xr-x  3 christopher.riba98  ACADEMIC\Domain Users  102 Jan 31 14:00 foo
+drwxr-xr-x  2 christopher.riba98  ACADEMIC\Domain Users   68 Jan 31 13:58 food
 
 
 ==========
@@ -131,7 +132,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/christopher.riba98
 
 
 ==========
@@ -142,7 +143,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Volumes
 
 
 ==========
@@ -153,7 +154,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Volumes
 
 
 ==========
@@ -164,7 +165,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/christopher.riba98/mtec1002
 
 
 ==========
@@ -174,7 +175,7 @@ $ hostname
 
 Copy and paste the output into the space below.
 ----------
-
+G608-08.local
 
 
 ==========
