@@ -21,7 +21,7 @@ Copy and paste the output of ls below.
 ---------
 Desktop		Downloads	Movies		Pictures
 Documents	Library		Music		Public
-G608-08:~ christopher.riba98$ 
+
 
 
 ==========
@@ -37,14 +37,14 @@ nothing
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
 Desktop/   Documents/ Downloads/ 
-G608-08:~ christopher.riba98$ ls D
+
 
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
 ls: D: No such file or directory
-G608-08:~ christopher.riba98$ 
+
 
 
 ==========
@@ -54,9 +54,9 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
-G608-08:~ christopher.riba98$ 
 
-(Nothing is in documents folder)
+
+(Nothing is in documents folder so nothing showed up)
 
 
 ==========
@@ -67,7 +67,7 @@ $ ls -a Documents
 Copy and paste the first *two lines* of output below.
 ----------
 .		..		.localized
-G608-08:~ christopher.riba98$ 
+
 
 
 ==========
@@ -131,7 +131,7 @@ tab
 ==========
 12.  What was the main command that we used throughout this exercise?
 ----------
-ls (list all)
+ls
 
 
 ==========
