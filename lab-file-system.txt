@@ -154,8 +154,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-/Volumes
-
+You have new mail in /var/mail/christopher.riba98
 
 ==========
 15. Type:
@@ -181,7 +180,7 @@ G608-08.local
 ==========
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
-
+pwd
 
 
 ==========
@@ -204,7 +203,7 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
-
+mkdir -p pineapple/orange/strawberry/lemon
 
 
 ==========
@@ -212,6 +211,7 @@ Use only one command to make all of these new directories.  Write what command y
 
 Write the command you used to create the directory below:
 ----------
+mkdir aardvark
 
 
 
@@ -220,8 +220,7 @@ Write the command you used to create the directory below:
 
 What is the modified date of the aardvark directory?
 ----------
-
-
+Jan 31 20:37
 
 ==========
 21. Make 3 directories nested within each other:
@@ -232,7 +231,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
+mkdir -p foo/bar/baz
 
 
 ==========
@@ -240,7 +239,7 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd baz
 
 
 ==========
@@ -248,44 +247,43 @@ What command did you use?
 
 What command did you use?
 ----------
-
+foo
 
 ==========
 24. What command is used to delete empty directories?
 ----------
-
+rmdir
 
 
 ==========
 25. What command is used to print out your current working directory?
 ----------
-
+pwd
 
 
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
-
+ls -a
 
 
 ==========
 27. What's the shortcut for home directory?
 ----------
-
+ls -alt
 
 
 ==========
 28. What's a pathname?
 ----------
-
-
+is the general form of the name of a file or directory; it specifies a unique location in a file system
 
 ==========
 29. What's a directory?
 ----------
-
-
+Cataloging structure on a file system that references other files (and directories)
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+/Users/christopher.riba98/downloads
